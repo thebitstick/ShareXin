@@ -1,0 +1,77 @@
+Notification:
+    Sent:
+        Mastodon: Sendos al Mastodon
+        Twitter: Sendos al Twitter
+        Imgur: Sendos al Imgur
+    File: Dosiero konservis
+    Empty:
+        Mastodon: Vakua Toot | Ne sendis
+        Twitter: Vakua Tweet | Ne sendis
+    Not_Sent:
+        Mastodon: Toot ne sendis
+        Twitter: Tweet ne sendis
+Update:
+    Installed: Versiono Instalis
+    Latest: Maxim recenta versiono
+    Out: Vu uzas plu anciena versiono
+    Too: Vu uzas beta-versiono
+    Up: Vu uzas la maxim recenta versiono
+    Check: Kontrolu por novaj aktualigas ye
+Error:
+    Fatal: Fatala eroro, kloza apliko
+    Error: Eroro
+    "0": Unknown error
+    "1": Eroro recevar la $HOME variablo
+    "2": Eroro recevar la $LANG variablo
+    "3": Eroro recevar la $XDG_SESSION_TYPE variablo
+    "4": Surtabla komputero ne esas suporta
+    "5": t komando ne sen
+    "6": toot komando ne sen
+    "7": gnome-screenshot komando ne sen
+    "8": spectacle komando ne sen
+    "9": swaygrab komando ne sen
+    "10": scrot komando ne sen
+    "11": xdotool komando ne sen
+    "12": feh komando ne sen
+    "13": ImageMagick ne sen
+    "14": slop komando ne sen
+    "15": convert komando ne sen
+    "16": Github ne chanjas
+    "17": Imgur ne chanjas
+    "18": Eroro pri analizar de maxim nova versiono
+    "19": Ne posibla klozi dosiero od retopagino
+    "20": Eroro semar al Imgur
+    "21": Faliis editar al Mastodon
+    "22": Faliis editar al Twitter
+    "23": Ne posibla montrar averto
+    "24": GTK-komencala eroro
+    "25": Ne posibla obteno aktuala tempo
+    "26": Wayland surtabla ne esas suporta
+    "27": Surtabla ne esas suporta
+    "28": Ne posibla lektar dosiero
+    "29": La dosiero ja existas
+    "30": Dosiero ne savis
+    "31": Ne posibla montrar la taskpunton
+Help:
+    Usage: Uzo
+    Options: Selekto
+    Help: Montru la helpo mesaĝon kaj eliro
+    Version: Printversio informoj kaj eliro
+    Upgrade: Kontrolu por novaj ĝisdatigoj
+    Tray: Uzante taskpunkton
+    Image: Selekto de bildo
+    Area: Kapti areon de la ekrano anstataŭ ol la tuta ekrano
+    Window: Kapti la aktivan fenestron anstataŭ ol la tuta ekrano
+    Full: Kapti la plena ekrano
+    File: Uzu dosieron
+    Destinations: Celoj
+    Toot: Alŝutu al Mastodon
+    Tweet: Alŝutu al Twitter
+    Imgur: Alŝutu al Imgur
+    Twitter:
+        Options: Selekto de Twitter
+        Auth: Aŭtentigi kun Twitter
+    Mastodon:
+        Options: Selekto de Mastodon
+        Auth: Aŭtentigi kun Mastodon
+    Examples: Ekzemploj
